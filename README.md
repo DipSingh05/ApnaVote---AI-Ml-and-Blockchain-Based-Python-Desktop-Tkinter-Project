@@ -25,7 +25,7 @@ ApnaVote is a secure Python-based voting app using Tkinter, AI/ML, Firebase, and
 First, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/ApnaVote.git
+git clone https://github.com/DipSingh05/ApnaVote---AI-Ml-and-Blockchain-Based-Python-Desktop-Tkinter-Project.git
 cd ApnaVote
 ```
 
