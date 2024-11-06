@@ -1,0 +1,58 @@
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>d6ebe60f-55a0-4226-9375-325f187bc477</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>apnavote.py</StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <Name>Apnavote</Name>
+    <RootNamespace>Apnavote</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="apnavote.py" />
+    <Compile Include="frames\result_page.py" />
+    <Compile Include="frames\voting_page.py" />
+    <Compile Include="facial_recognition.py" />
+    <Compile Include="secure.py" />
+    <Compile Include="fingerprint_manager.py" />
+    <Compile Include="firebase_manager.py" />
+    <Compile Include="frames\landing_page.py" />
+    <Compile Include="frames\register_page.py" />
+    <Compile Include="send_sms.py" />
+    <Compile Include="votingsystem\test\voting_system.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="frames\" />
+    <Folder Include="votingsystem\" />
+    <Folder Include="votingsystem\contracts\" />
+    <Folder Include="votingsystem\migrations\" />
+    <Folder Include="votingsystem\test\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include=".gitignore" />
+    <Content Include="requirements.txt" />
+    <Content Include="votingsystem\migrations\2_deploy_contracts.js" />
+    <Content Include="votingsystem\contracts\voting.sol" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+  <!-- Uncomment the CoreCompile target to enable the Build command in
+       Visual Studio and specify your pre- and post-build commands in
+       the BeforeBuild and AfterBuild targets below. -->
+  <!--<Target Name="CoreCompile" />-->
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+</Project>

@@ -1,0 +1,12 @@
+bcrypt
+cryptography
+twilio
+firebase-admin
+opencv-python
+numpy
+mtcnn
+web3
+ttkbootstrap
+Pillow
+requests
+matplotlib
