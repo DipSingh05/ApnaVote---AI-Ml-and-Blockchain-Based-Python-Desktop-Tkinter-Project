@@ -33,7 +33,10 @@ cd ApnaVote
 
 Install all necessary dependencies by running:
 
+install node.js and cmake
+
 ```bash
+npm install
 pip install -r requirements.txt
 ```
 
