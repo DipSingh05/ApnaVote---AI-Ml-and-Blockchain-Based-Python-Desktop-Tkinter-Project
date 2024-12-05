@@ -50,7 +50,7 @@ pip install -r requirements.txt
 4.Download the servicekey and save it in assets/json folder as it shown.![Screenshot 2024-11-06 092811](https://github.com/user-attachments/assets/e3794d43-e551-4a41-bbc5-99ab5a679902)
 ![Screenshot 2024-11-06 091452](https://github.com/user-attachments/assets/6570ba08-abb9-44ef-ad95-056ef25a905f)
 
-5. Copy the Firebase configuration tokens and paste them in `firebase_manager.py` as specified in the file.![Screenshot 2024-11-06 091349](https://github.com/user-attachments/assets/5cc34562-a272-4178-8b55-575af25d9a6a)
+5. Copy the Firebase configuration tokens and paste them in `firebase_manager.py` as specified in the file. NOTE WHILE PASTEING BUCKET PLEASE REMOVE(gs://) OTHERWISE IT WILL CREATE PROBLEM![Screenshot 2024-11-06 091349](https://github.com/user-attachments/assets/5cc34562-a272-4178-8b55-575af25d9a6a)
 ![Screenshot 2024-11-06 091325](https://github.com/user-attachments/assets/d47335d1-2f2d-4bc8-a7c4-191c7df509f6)
 
 
