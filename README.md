@@ -4,12 +4,13 @@ ApnaVote is a secure Python-based voting app using Tkinter, AI/ML, Firebase, and
 ## Demo Video
 
 
-https://github.com/user-attachments/assets/964dee4e-c328-429e-9b7e-f0f3dc6f4838
-![apnavote_video - Made with Clipchamp-4](https://github.com/user-attachments/assets/9388780c-163d-4ae8-a1b1-22338182e761)
-![apnavote_video - Made with Clipchamp-3](https://github.com/user-attachments/assets/ae98ac72-c015-411a-9c2e-35caf9292b36)
-![apnavote_video - Made with Clipchamp-2](https://github.com/user-attachments/assets/d24170c7-e1f5-4fea-a377-1c12ed1a8ccc)
-![apnavote_video - Made with Clipchamp-1](https://github.com/user-attachments/assets/f9f94c7b-d092-4406-825f-b4f28a05dd27)
-![apnavote_video - Made with Clipchamp-0](https://github.com/user-attachments/assets/71d2364a-6247-417f-bab7-0e7a1aab7c42)
+- https://github.com/user-attachments/assets/964dee4e-c328-429e-9b7e-f0f3dc6f4838
+  
+-![apnavote_video - Made with Clipchamp-4](https://github.com/user-attachments/assets/9388780c-163d-4ae8-a1b1-22338182e761)
+-![apnavote_video - Made with Clipchamp-3](https://github.com/user-attachments/assets/ae98ac72-c015-411a-9c2e-35caf9292b36)
+-![apnavote_video - Made with Clipchamp-2](https://github.com/user-attachments/assets/d24170c7-e1f5-4fea-a377-1c12ed1a8ccc)
+-![apnavote_video - Made with Clipchamp-1](https://github.com/user-attachments/assets/f9f94c7b-d092-4406-825f-b4f28a05dd27)
+-![apnavote_video - Made with Clipchamp-0](https://github.com/user-attachments/assets/71d2364a-6247-417f-bab7-0e7a1aab7c42)
 
 
 
