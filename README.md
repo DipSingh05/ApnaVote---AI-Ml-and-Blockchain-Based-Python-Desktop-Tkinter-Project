@@ -1,19 +1,22 @@
 
 
+
+https://github.com/user-attachments/assets/c81b4913-2c12-49ad-ab97-d63ab8656ad1
+
+
 # ApnaVote---AI-Ml-and-Blockchain-
 
 Based-Python-Desktop-Tkinter-Project
 ApnaVote is a secure Python-based voting app using Tkinter, AI/ML, Firebase, and blockchain. It enables one-time voting with AI facial verification and tamper-proof blockchain storage. Firebase manages voter and candidate data, while smart contracts handle real-time results and candidate updates.
 
-## Demo Video
+## Demo Images
 
+![apnavote_video - Made with Clipchamp-0](https://github.com/user-attachments/assets/bdda43a8-e72e-4d36-adda-db7c2397a606)
+![apnavote_video - Made with Clipchamp-1](https://github.com/user-attachments/assets/cf183e16-b8da-4540-8b72-a57c59952edd)
+![apnavote_video - Made with Clipchamp-2](https://github.com/user-attachments/assets/3133ee4c-bb32-439f-8b4b-98414d9360df)
+![apnavote_video - Made with Clipchamp-3](https://github.com/user-attachments/assets/193bb9ed-81f0-4ef2-af69-7497a6cf2a2f)
+![apnavote_video - Made with Clipchamp-4](https://github.com/user-attachments/assets/cce03044-7ddb-4459-838a-cd6e2bedbbb3)
 
-
-Uploading apnavote_video - Made with Clipchamp (1).mp4…
-
-
-
-https://github.com/user-attachments/assets/c12b090f-b32a-491d-9a20-efc8fe5f37
 
 ## Features
 
