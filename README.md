@@ -37,7 +37,7 @@ ApnaVote is a secure Python-based voting app using Tkinter, AI/ML, Firebase, and
 
 ## Note:
 
-Please install python 3.12 ! i checked on another plus version it not worked so.
+Please install python 3.12.X ! i checked on another plus version it not worked so. [ X refers to the latest update]
 
 ## How to Run
 
